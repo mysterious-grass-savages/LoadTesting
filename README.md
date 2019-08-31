@@ -22,13 +22,13 @@ Brain dump - Keep it clean, no specifics...
 ## Issues & Challenges
 * Some journies are intamately linked to client side security implementation.
 * Access to e2e test environment with sufficient scale
- * Test in dev
-  * Use stubs with sleeps consistent with performance of back-end (measured under no load on)
-  * Possibly sufficient for low user counts for now
+  * Test in dev
+    * Use stubs with sleeps consistent with performance of back-end (measured under no load on)
+    * Possibly sufficient for low user counts for now
 
  * Pre-Prod
-  * Target deployment dates?
-  * Capacity capabilities on backend?
+   * Target deployment dates?
+   * Capacity capabilities on backend?
 
 ## Tasks
 
